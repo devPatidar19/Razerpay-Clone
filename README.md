@@ -20,4 +20,4 @@ It's a website that has been designed to mimic the design of the popular Indian 
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/dev-patidar-733b26248/)
+- **LinkedIn** - [Dev Patidar](https://www.linkedin.com/in/dev-patidar-733b26248/)
